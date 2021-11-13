@@ -79,17 +79,17 @@ body {
 /* * ============================== */
 main .mmm{
 	margin-top: 15px;
-	margin-bottom: -10px;
+	margin-bottom: 20px;
 }
 main {
-	min-height: 50vh;
+	min-height: 70vh;
 }	
 main .contenido img{
 	float: right;
 	align-content:center;
 	width: 25%;
 	height: 25%;
-	margin-right: 6.5%;
+	margin: 1%;
 }
 
 }
